@@ -8,4 +8,4 @@ Notebooks
 
 4.Annotator.py- Script for Annotating the Dataset 
 
-5.skip-thoughts/Summarizer -  Text Summarization 
+5.Summarizer -  Text Summarization 
